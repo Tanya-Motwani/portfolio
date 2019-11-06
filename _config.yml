@@ -1,21 +1,21 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Tanya Motwani
+subtitle: 
 email: motwani.tanya220@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: An aspiring ML engineer
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://tanya-motwani.github.io/"# the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Indraprastha Towers
+city: Ahmedabad
+state: Gujarat
+zip_code: 380052
+country: India
+phone: +91-9978978234
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 500px_url:
