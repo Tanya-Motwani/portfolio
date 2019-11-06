@@ -4,7 +4,7 @@ subtitle:
 email: motwani.tanya220@gmail.com
 description: An aspiring ML engineer
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
-url: "https://tanya-motwani.github.io/"# the base hostname & protocol for your site
+url: "https://tanya-motwani.github.io/" # the base hostname & protocol for your site
 author:
 street_address: Indraprastha Towers
 city: Ahmedabad
@@ -21,7 +21,7 @@ tiles-count: 8
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
+gitlab_url: https://github.com/Tanya-Motwani/
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
