@@ -15,7 +15,7 @@ phone: +91-9978978234
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 8
+tiles-count: 6
 
 # social settings
 500px_url:
